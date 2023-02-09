@@ -1,5 +1,5 @@
 # Python-pandas---Practice_01
-Small project to practice data wrangling with pandas.
+Small project to practice data manipulation with pandas python library.
 
 
 # How to use it
